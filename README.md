@@ -6,4 +6,4 @@ If this helps you understand multi-targeting like it did for me - that's cool. J
 
 Go there and throw James your support - he does great work.
 
-If you want to add support for other platforms then go for it. Just be kind enough to submit a PR please.
+If you want to add support for other platforms then go for it. Just be kind enough to submit a PR :)
